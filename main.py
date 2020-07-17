@@ -22,6 +22,8 @@ import unordered_numbers as data
 
 # -----------------------------------------------------------------------------
 
+print("Hello!")
+
 # 1. Write a function that takes in a vector of unordered numbers
 #    (unordered_numbers.h) and returns a vectors of ordered numbers 
 #    (ascending order) using a merge sort. 
